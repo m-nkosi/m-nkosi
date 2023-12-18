@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![alt text] (https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif "coding logo")
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+</div>
 <!--
 **m-nkosi/m-nkosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

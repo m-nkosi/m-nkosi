@@ -8,7 +8,7 @@
   </h2>
   <h2 align="left">👨🏻‍💻 About me:</h2>
 
-  - :computer: I have recently graduate, Currently exploring React.j
+  - :computer: I have recently graduate, Currently exploring React.js
 
   - :hourglass_flowing_sand: Improving on my soft skills
 
@@ -17,3 +17,7 @@
   - :man_technologist: former backend developer for the start up named student placement corporation 
   - :dart: Life Hack: dont be afraid to start over
   - :trophy: Got 90% in data structures and algorithms in university
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkednin](https://img.shields.io/badge/-mnkosi-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/mxolisi-nkosi-228078239/)
